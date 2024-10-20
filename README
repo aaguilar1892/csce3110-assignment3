@@ -1,0 +1,9 @@
+Use the following command to compile:
+
+$ g++ -std=c++0x avl.cpp
+
+Use the following command to test:
+
+./a.out test_cases/input1.txt
+
+TODO: details in readme
